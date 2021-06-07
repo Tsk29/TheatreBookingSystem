@@ -1,0 +1,13 @@
+                            A7 MULTIPLEX                             
+**************************
+ Name :tsk                                         Phone Number: 9843035695
+Screen:C
+
+Movie :COBRA                                               Time:1pm
+ No.of Tickets:4
+Tickets Cost:600INR only                             Food Cost: 360INR only
+3d glasses Cost:200INR only                             Mask Cost: 120INR only
+Payment Method: Credit Card
+**************************
+ Total bill:1280INR only 
+**************************
